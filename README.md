@@ -13,6 +13,7 @@ final project cyber security summer camp 24'
 
 **Proiect de comunicare între două mașini virtuale (Backdoor)** 
 Acest proiect demonstrează o implementare simplă a unui backdoor. Serverul, care rulează pe o mașină atacatoare, acceptă conexiuni de la un client (backdoor) care rulează pe o mașină compromisă. Odată conectat, atacatorul poate executa comenzi la distanță, transfera fișiere și controla sistemul compromis. 
+
 **Avertisment:** Codul prezentat este destinat exclusiv scopurilor educative și de cercetare. Nu utilizați acest cod pentru a accesa sisteme fără permisiune. Utilizarea neautorizată a acestui instrument poate fi considerată o infracțiune cibernetică și poate avea consecințe legale grave. 
 
 **Funcționalități:**
