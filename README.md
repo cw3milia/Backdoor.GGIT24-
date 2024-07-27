@@ -46,7 +46,7 @@ Acest proiect demonstrează o implementare simplă a unui backdoor. Serverul, ca
 • Stealth: Pentru a evita detectarea, ar trebui implementate tehnici de evaziune a sistemului de detecție a intruziunilor (IDS). 
 • Modularitate: Codul ar putea fi îmbunătățit prin modularizare, separând diferitele funcționalități în module separate. 
 
-**Recomandări: **
+**Recomandări:**
 • Studiați securitatea cibernetică. 
 • Utilizați instrumente legitime pentru testarea penetrării. 
 • Respectați legile și reglementările în vigoare. 
