@@ -5,7 +5,9 @@ final project cyber security summer camp 24'
 **Disclaimer**: Codul prezentat implementează un backdoor, o unealtă care permite accesul neautorizat la un sistem. Utilizarea acestuia în scopuri ilegale este strict interzisă și poate avea consecințe juridice grave. 
 
 **Scopul codului:** 
+
 • Server: Așteaptă conexiuni de la un client (backdoor). 
+
 • Backdoor: Se conectează periodic la server, execută comenzi primite și transferă fișiere. 
 
 
