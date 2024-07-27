@@ -7,7 +7,7 @@ Acum, să intrăm în detalii:
 Începem prin săpat în setările noastre. Așa că, definim o adresă IP (SERVER_IP) și un port (SERVER_PORT) pe care serverul nostru cool va asculta pentru conexiuni. E ca și cum am stabili locul de întâlnire pentru o petrecere online. 🎉 
 
 **2. Trimiterea și primirea datelor:** 
-OK, acum să vorbim despre cum se transmit mesajele între computere. Avem două funcții: reliable_send(data) și reliable_recv(). Ele sunt ca niște curieri care livrează pachete de date într-un format fancy numit JSON. Și da, JSON e ca un plic cu emoji-uri. 💌 
+OK, acum să vorbim despre cum se transmit mesajele între computere. Avem două funcții: ```reliable_send(data)``` și reliable_recv(). Ele sunt ca niște curieri care livrează pachete de date într-un format fancy numit JSON. Și da, JSON e ca un plic cu emoji-uri. 💌 
 
 **3. Gestionarea fișierelor:** 
 Aici e partea interesantă! Serverul nostru poate încărca și descărca fișiere între el și client. E ca și cum am face schimb de jucării între două copii. Funcțiile sunt upload_file(filename) și download_file(filename). 📂 
