@@ -1,7 +1,8 @@
 Yo, băieți și fete! 🤘 
 Deci, să vorbim despre un script de server în Python. Știi, acel fel de cod care face ca două calculatoare să se întâlnească și să-și dea check-in pe rețea. Da, e ca un fel de Tinder pentru computere, dar fără swipe-uri. 😄 
 Deci, hai să dezbatem ce face acest script. În primul rând, el folosește niște module tari: os, socket și json. Ce fac ele? Ei bine, os e ca un fel de ghid turistic pentru sistemul de operare, socket e ca un telefon secret între computere, iar json e ca un translator pentru datele lor. 
-Acum, să intrăm în detalii: 
+Acum, să intrăm în detalii:
+
 **1. Configurarea inițială:** 
 Începem prin săpat în setările noastre. Așa că, definim o adresă IP (SERVER_IP) și un port (SERVER_PORT) pe care serverul nostru cool va asculta pentru conexiuni. E ca și cum am stabili locul de întâlnire pentru o petrecere online. 🎉 
 
