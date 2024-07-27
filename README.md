@@ -16,6 +16,7 @@ Acest proiect demonstrează o implementare simplă a unui backdoor. Serverul, ca
 **Avertisment:** Codul prezentat este destinat exclusiv scopurilor educative și de cercetare. Nu utilizați acest cod pentru a accesa sisteme fără permisiune. Utilizarea neautorizată a acestui instrument poate fi considerată o infracțiune cibernetică și poate avea consecințe legale grave. 
 
 **Funcționalități:**
+
 • Conexiune: Serverul acceptă conexiuni de la client. Clientul se reconectează periodic în caz de întrerupere. 
 
 • Comunicare: Utilizează format JSON pentru a transmite comenzi și rezultate. 
@@ -26,6 +27,7 @@ Acest proiect demonstrează o implementare simplă a unui backdoor. Serverul, ca
 
 
 **Structura proiectului:**
+
 • server.py: Conține codul serverului. 
 
 • backdoor.py: Conține codul clientului (backdoor). 
@@ -33,13 +35,13 @@ Acest proiect demonstrează o implementare simplă a unui backdoor. Serverul, ca
 
 **Instrucțiuni de utilizare:**
 1. Configurare: Modificați adresele IP și porturile în ambele fișiere pentru a se potrivi cu configurația rețelei dumneavoastră.
-2. 
+
 3. Rulare: Executați scriptul server.py pe mașina atacatoare și scriptul backdoor.py pe mașina țintă.
-4. 
-5. Interacțiune: Utilizați promptul de comandă al serverului pentru a trimite comenzi și a interacționa cu sistemul compromis.
-6. 
+ 
+ 
    
 **Riscuri și limitări:**
+
 • Vulnerabilități: Codul poate fi vulnerabil la exploatări dacă nu este securizat corespunzător. 
 
 • Detectare: Activitatea backdoor-ului poate fi detectată de software-ul de securitate. 
@@ -48,6 +50,7 @@ Acest proiect demonstrează o implementare simplă a unui backdoor. Serverul, ca
 
 
 **Măsuri de securitate:**
+
 • Nu utilizați acest cod în producție. 
 
 • Securizați corespunzător sistemele dumneavoastră. 
@@ -58,6 +61,7 @@ Acest proiect demonstrează o implementare simplă a unui backdoor. Serverul, ca
 **Disclaimer**: Acest README este oferit doar ca exemplu și nu garantează securitatea sau legalitatea utilizării acestui cod. 
 
 **Note suplimentare:** 
+
 • Securizare: Ar trebui adăugate mecanisme de autentificare și criptare pentru a îmbunătăți securitatea. 
 
 • Stealth: Pentru a evita detectarea, ar trebui implementate tehnici de evaziune a sistemului de detecție a intruziunilor (IDS). 
@@ -66,6 +70,7 @@ Acest proiect demonstrează o implementare simplă a unui backdoor. Serverul, ca
 
 
 **Recomandări:**
+
 • Studiați securitatea cibernetică. 
 
 • Utilizați instrumente legitime pentru testarea penetrării. 
@@ -81,6 +86,7 @@ Recomand: să înlocuiți acest cod cu un exemplu mai benefic și să promovați
 Ați dori să explorezi alte subiecte legate de securitatea cibernetică sau dezvoltarea de software? 
 
 **Posibile subiecte:**
+
 • Criptografie: Cum să protejați datele cu ajutorul algoritmilor de criptare. 
 
 • Testarea de penetrare: Cum să identificați vulnerabilitățile într-un sistem.
